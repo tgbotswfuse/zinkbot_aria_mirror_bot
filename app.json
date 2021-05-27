@@ -1,5 +1,5 @@
 {
-    "name": "slam-mirrorbot ",
+    "name": "boim0viesbot ",
     "description": "Telegram mirror bot writen python",
     "logo": "https://telegra.ph/file/019996f816db9ed576cff.jpg",
     "keywords": [
@@ -7,9 +7,9 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU",
+    "repository": "https://github.com/zinkmovies/zinkbot_aria_mirror_bot",
     "website": "https://t.me/torrent_to_gdrive",
-    "success_url": "https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/blob/master/README.md",
+    "success_url": "https://github.com/zinkmovies/zinkbot_aria_mirror_bot/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
